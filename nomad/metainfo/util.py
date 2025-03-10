@@ -178,8 +178,9 @@ class MSubSectionList(list):
     def reverse(self):
         raise NotImplementedError('You can only append subsections.')
 
-    def sort(self, *, key=..., reverse=...):
-        raise NotImplementedError('You can only append subsections.')
+#    def sort(self, *, key=..., reverse=...):
+#        super().sort(key,reverse)
+#        raise NotImplementedError('You can only append subsections.')
 
     def clear(self):
         old_values = list(self)
