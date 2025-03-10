@@ -3,6 +3,9 @@
 [![frontend coverage report](https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR/badges/develop/coverage.svg?job=gui+tests&key_text=frontend+coverage&key_width=130)](https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR/commits/develop)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.05388/status.svg)](https://doi.org/10.21105/joss.05388)
 
+**NOMAD ICSP** This version of Nomad includes a number of minor changes for the use in the ICSP FAU ecosystem. These changes include:
+ - Removing the sort function of SubSectionList in nomad/metadata/utils.py restoring the sort capabilities of the parent list class.
+
 **NOMAD** is a web-based research data management software for materials science.
 You find the official project homepage and documentation here [https://nomad-lab.eu](https://nomad-lab.eu).
 NOMAD is used to provide an open service for managing and publish research data of the same name.
