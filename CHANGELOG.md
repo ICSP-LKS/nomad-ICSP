@@ -1,3 +1,9 @@
+## 1.3.15 (2025-03-05)
+
+### Fixed (1 change)
+
+- [Fixed user group collection name in MongoDB](https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR/-/commit/e8daac5fba118c3f2d013f97bc68753cb916754a) ([merge request](https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR/-/merge_requests/2350))
+
 ## 1.3.14 (2025-02-28)
 
 ### Added (11 changes)
