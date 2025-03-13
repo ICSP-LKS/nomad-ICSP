@@ -28,7 +28,7 @@ gui/tests/artifacts.js
 # Ignore built gui and docs artifacts
 nomad/app/static/.gui_configured
 nomad/app/static/docs
-nomad/app/static/gui
+#nomad/app/static/gui
 
 nomad/normalizing/data/*.db
 nomad/normalizing/data/*.msg
